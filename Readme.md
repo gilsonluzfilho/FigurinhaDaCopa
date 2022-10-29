@@ -8,3 +8,5 @@ Tecnologias:<br>
 [x] HTML<br>
 [x] CSS 🎨<br>
 [x] JavaScript
+
+![Figurinha-da-Copa](https://user-images.githubusercontent.com/109834277/198755139-37b335ac-3b45-47ca-8f14-8cb350f82deb.png)
